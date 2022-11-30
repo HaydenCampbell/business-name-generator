@@ -70,7 +70,7 @@ class _RandomWordsState extends State<RandomWords> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: const Text('Startup Name Generator'),
+        appBar: AppBar(title: const Text('Business Name Generator'),
           actions: [
             IconButton(
               icon: const Icon(Icons.list),
